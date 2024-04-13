@@ -12,7 +12,6 @@ TECBUS is a mobile application developed to track the movement of buses in real-
   
 - **Bus Overloading Prevention:** Provides alerts and notifications to prevent bus overloading by monitoring the number of passengers on board.
 
-- **Student Tracking Services:** Enables parents and guardians to track the location of their children on buses for added safety and security.
 
 ## Technologies Used
 
